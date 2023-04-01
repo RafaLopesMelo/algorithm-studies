@@ -1,5 +1,3 @@
-// O(log n)
-
 (() => {
 	function binarySearch(list: number[], target: number): number | null {
 		let executions = 0;
